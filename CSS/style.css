@@ -1,0 +1,154 @@
+*{
+  margin: 0 auto;
+  padding:0;
+  margin-left: 3px;
+
+
+}
+.header{
+height: 200px;
+margin-top: 5px;
+}
+.nav{
+  height: 120px;
+  margin-top: 20px;
+  justify-content: right;
+  display: flex;
+  
+}
+.box_sarlavha{
+  display: flex;
+  margin-top: 40px;
+  
+}
+.span__tex{
+  color: aqua;
+  display: inline-block;
+}
+.nav__tex{
+    width: 400px;
+  margin-top: 20px;
+}
+.nav__box{
+   width: 80%;
+}
+.nav__box__data{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.section{
+  height: 500px;
+  margin-top: 47px;
+}
+.footer{
+  height: 200px;
+  margin-top: 130px;
+  display: flex
+}
+#footer__hr{
+  margin-top: 5px;
+  border: 1.5px solid aqua;
+  width: 45px;
+  background:aqua;
+}
+.footer__box{
+  display: inline-block;
+  width: 50%;
+  height:46px;
+}
+.nav__box__ctiy{
+  display: flex;
+  margin-top: 25px;
+  flex-direction: column;
+}
+
+.footer__signature{
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  width: 25%;
+  height: 46px;
+}
+.footer__box__ul{
+ display: flex;
+ flex-direction: column;
+ list-style-type: none;
+ justify-content: space-between;
+ width: 50%;
+}
+#footer__ul__li{
+  display: flex;
+  width: 200px;
+  justify-content: left;
+}
+.footer__box__ul__ikki{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  width: 50%;
+}
+.footer__signature__box__bir{
+  display: flex;
+  width: 50%;
+  flex-direction: column; 
+}
+
+.footer__signature__box{
+  display: flex;
+  width: 99.5%;
+  height: 46px;
+}
+#footer__signature__hr{
+  border: solid 1px  aqua;
+  width: 100px;
+  height: 0px;
+  margin-top: 25px;
+}
+.footer__box_thank{
+  display: flex;
+margin-top: 20px;
+width: 76.5%;
+height: 80px;
+justify-content: center;
+flex-direction: column;
+margin-left: 100px;
+
+}
+.footer__box_thank__tex{
+width: 70%;
+}
+
+/* FORM */
+.form{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+/* section */
+}
+.label__box{
+  width: 50%;
+  height: 250px;
+  
+
+}
+.label__box__ikki{
+  width: 50%;
+  height: 250px;
+}
+.section__tex{
+  margin: 40px 40px;
+}
+/* Address */
+.section_box__address{
+  display: flex;
+}
+.section_box{
+  width: 90%;
+}
+.section__nav{
+  /* display: flex; */
+  margin-top: 10px;
+}
